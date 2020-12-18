@@ -1,0 +1,27 @@
+    export default {
+        fechar: 'Close',
+        termos: 'Terms and conditions of use',
+        concordo: 'I agree',
+        textotermo: 'By using the application, the user declares and warrants to have read, understood and accepted the term. If, at any time, the user does not agree with the term, he must cancel your account and cease all use of the application.',
+        pesopaciente_2: "Enter the patient's weight",
+        tempocirurgia: "Enter surgery time(h)",
+        volumetotal: 'Total volume(ml)',
+        sulfato: 'MG Sulphate',
+        lidocaina: 'Lidocaine',
+        cetamina: 'Ketamine',
+        dexmedetomidina: 'Dexmedetomidine',
+        dadoscirurgia: 'Data for surgery',
+        pesopaciente: 'Patient weight:',
+        tempodecirurgia: 'Surgery time:',
+        Volumetotal: 'Total volume(ml):',
+        vazao: 'Flow(ml/h):',
+        nome:'Name',
+        sulfatomg: 'MG Sulph.(.mg/h)',
+        lidocainamg: 'Lidocaine(.mg/h)',
+        cetaminamg: 'Ketamine(.mg/h)',
+        totalanestesico: 'Anesthetic Total(ml):',
+        dosediluente: 'Diluent dose(ml):',
+        
+
+        calcular: 'Calculate',
+    }  
